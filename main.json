@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"erfas-south.json#start_luxeria"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_luxeria}"
                 }],
          "type":"tilelayer",
          "visible":true,
