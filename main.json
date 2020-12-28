@@ -117,6 +117,12 @@
          "id":46,
          "name":"luxlogo",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/luxeria.ch"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
@@ -254,7 +260,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":62,
+ "nextlayerid":63,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
