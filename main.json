@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":30,
  "infinite":false,
  "layers":[
@@ -31,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world://lobby/punchcard.json#start_ChaosImLaborLuzern"
+                 "value":"world:\/\/lobby\/punchcard.json#start_ChaosImLaborLuzern"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -263,8 +256,24 @@
  "nextlayerid":63,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"LuXeria und Labor Luzern veranstalten Chaos"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/laborluzern.ch\/event\/rc3\/"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"LuXeria und Labor Luzern"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -275,16 +284,16 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -294,16 +303,16 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
-         "spacing":0,
-         "tilecount":128,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -313,16 +322,16 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
-         "spacing":0,
-         "tilecount":512,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":512,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -332,6 +341,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"dk_transports",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -424,13 +439,7 @@
                         }],
                  "id":36
                 }],
-         "tilewidth":32,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"unknown"
-                }]
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -440,16 +449,16 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":4,
@@ -459,16 +468,16 @@
          "imagewidth":128,
          "margin":0,
          "name":"rc3_style_set",
-         "spacing":0,
-         "tilecount":28,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":28,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":2,
@@ -478,16 +487,16 @@
          "imagewidth":64,
          "margin":0,
          "name":"08_right_mate_bottles_flora_full",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":15,
@@ -497,16 +506,16 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
-         "spacing":0,
-         "tilecount":1995,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":1995,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":7,
@@ -516,6 +525,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -548,13 +563,7 @@
                         }],
                  "id":25
                 }],
-         "tilewidth":32,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"unknown"
-                }]
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -564,6 +573,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -624,13 +639,7 @@
                         }],
                  "id":31
                 }],
-         "tilewidth":32,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"unknown"
-                }]
+         "tilewidth":32
         }, 
         {
          "columns":8,
@@ -640,16 +649,16 @@
          "imagewidth":256,
          "margin":0,
          "name":"official_rockets",
-         "spacing":0,
-         "tilecount":80,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":80,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -659,16 +668,16 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":33,
@@ -678,15 +687,15 @@
          "imagewidth":1056,
          "margin":0,
          "name":"text",
-         "spacing":0,
-         "tilecount":1089,
-         "tileheight":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"unknown"
                 }],
+         "spacing":0,
+         "tilecount":1089,
+         "tileheight":32,
          "tiles":[
                 {
                  "animation":[
@@ -746,6 +755,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -759,13 +774,7 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"unknown"
-                }]
+         "tilewidth":32
         }, 
         {
          "columns":6,
@@ -775,19 +784,19 @@
          "imagewidth":192,
          "margin":0,
          "name":"luxlogo",
-         "spacing":0,
-         "tilecount":24,
-         "tileheight":32,
-         "tilewidth":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"CC-BY-SA 3.0 CH"
-                }]
+                }],
+         "spacing":0,
+         "tilecount":24,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":25
 }
