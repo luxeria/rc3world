@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{../main.json}"
+                 "value":"../main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -680,7 +680,7 @@
          "name":"text",
          "spacing":0,
          "tilecount":1089,
-         "tileheight":32,,
+         "tileheight":32,
          "properties":[
                 {
                  "name":"tilesetCopyright",
