@@ -139,7 +139,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"exit",
+         "name":"Gruppe_exit",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -917,6 +917,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"LaborLogo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 CH"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
