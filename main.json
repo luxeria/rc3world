@@ -278,7 +278,13 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":16,
@@ -291,7 +297,13 @@
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":16,
@@ -304,7 +316,13 @@
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":16,
@@ -406,7 +424,13 @@
                         }],
                  "id":36
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":16,
@@ -419,7 +443,13 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":4,
@@ -432,7 +462,13 @@
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":2,
@@ -445,7 +481,13 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":15,
@@ -458,7 +500,13 @@
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":7,
@@ -500,7 +548,13 @@
                         }],
                  "id":25
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":16,
@@ -570,7 +624,13 @@
                         }],
                  "id":31
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":8,
@@ -583,7 +643,13 @@
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":16,
@@ -596,7 +662,13 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":33,
@@ -608,7 +680,13 @@
          "name":"text",
          "spacing":0,
          "tilecount":1089,
-         "tileheight":32,
+         "tileheight":32,,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "tiles":[
                 {
                  "animation":[
@@ -681,7 +759,13 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }]
         }, 
         {
          "columns":6,
@@ -694,7 +778,13 @@
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 CH"
+                }]
         }],
  "tilewidth":32,
  "type":"map",
