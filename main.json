@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world://lobby"
+                 "value":"world://lobby/punchcard.json#start_ChaosImLaborLuzern"
                 }],
          "type":"tilelayer",
          "visible":true,
