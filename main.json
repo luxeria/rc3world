@@ -58,6 +58,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/luxeria.ch"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -375,7 +380,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":83,
+ "nextlayerid":84,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "properties":[
