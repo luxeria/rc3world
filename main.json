@@ -349,7 +349,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"background",
+         "name":"wall_back",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -395,7 +395,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"foreground",
+         "name":"wall_front",
          "opacity":1,
          "type":"group",
          "visible":true,
@@ -441,7 +441,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"airlock",
+         "name":"airlock_foreground",
          "opacity":1,
          "type":"group",
          "visible":true,
