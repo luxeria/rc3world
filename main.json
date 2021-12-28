@@ -8,7 +8,7 @@
                 {
                  "draworder":"topdown",
                  "id":95,
-                 "name":"Badge",
+                 "name":"Links",
                  "objects":[
                         {
                          "height":1245.33333333333,
@@ -26,18 +26,29 @@
                          "width":870.666666666667,
                          "x":284,
                          "y":300
+                        }, 
+                        {
+                         "height":27.6666666666667,
+                         "id":21,
+                         "name":"",
+                         "properties":[
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"https:\/\/game-of-life.egoat.ch\/"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
+                                }],
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":36.3333333333333,
+                         "x":989.333333333333,
+                         "y":677.333333333333
                         }],
-                 "opacity":1,
-                 "type":"objectgroup",
-                 "visible":true,
-                 "x":0,
-                 "y":0
-                }, 
-                {
-                 "draworder":"topdown",
-                 "id":97,
-                 "name":"Links",
-                 "objects":[],
                  "opacity":1,
                  "type":"objectgroup",
                  "visible":true,
@@ -114,7 +125,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/cccch\/main.json#entryCoredump"
+                         "value":"world:\/\/cccch\/main.json#entryPortals"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -248,7 +259,7 @@
          "name":"background",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -437,7 +448,7 @@
          "name":"wall_front",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -483,7 +494,7 @@
          "name":"airlock_foreground",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -499,8 +510,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":98,
- "nextobjectid":21,
+ "nextlayerid":99,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
