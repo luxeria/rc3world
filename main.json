@@ -78,7 +78,7 @@
                          "value":"world:\/\/lobby\/main.json"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":50,
                  "x":0,
                  "y":0
@@ -460,8 +460,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":92,
- "nextobjectid":1,
+ "nextlayerid":94,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
