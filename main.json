@@ -3,6 +3,34 @@
  "infinite":false,
  "layers":[
         {
+         "draworder":"topdown",
+         "id":95,
+         "name":"Badge",
+         "objects":[
+                {
+                 "height":1245.33333333333,
+                 "id":19,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"CBcel0fbG8yWpFnkM8RJtN3rg0IiVbyLbfQHuo7ZpKfyOKQW1m\n"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":870.666666666667,
+                 "x":284,
+                 "y":300
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":65,
          "layers":[
                 {
@@ -460,8 +488,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":94,
- "nextobjectid":5,
+ "nextlayerid":96,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
