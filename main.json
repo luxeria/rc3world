@@ -269,7 +269,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"labor.json"
+                         "value":"labor.json#bin_out"
                         }],
                  "type":"tilelayer",
                  "visible":true,
