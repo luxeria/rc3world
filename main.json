@@ -366,7 +366,7 @@
                  "name":"space",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
@@ -378,7 +378,7 @@
                  "name":"stars",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
